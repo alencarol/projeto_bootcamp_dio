@@ -1,2 +1,2 @@
-# projeto_bootcamp_dio
+# projeto Bootcamp Dio 💻
 Desafio de projeto sobre Git/Github
